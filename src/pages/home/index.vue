@@ -77,7 +77,7 @@ export default {
       position:absolute;
       top:50%;
       // transform: translateY(-50%);
-      right: 5%;
+      right: 10%;
     }
   }
 }
